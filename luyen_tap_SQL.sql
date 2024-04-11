@@ -7,7 +7,7 @@ ORDER BY email ASC;
 -- bai 2:
 SELECT name
 FROM Products
-ORDER BY price * quantity DESC
+ORDER BY name ASC
 LIMIT 1;
 
 -- bai 3:
